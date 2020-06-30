@@ -1,0 +1,18 @@
+.header, .hero,.body , .bar, .footer{
+	background-color: #FFAEC9;
+	padding: 10px 0;
+	margin-bottom: 10px;
+}
+
+.box{
+	min-height: 50px;
+	background-color: #99D9EA;
+	margin-bottom: 10px;
+}
+
+.red{
+	background-color: red;
+}
+.btn-warning:hover{
+	color: black;
+}
